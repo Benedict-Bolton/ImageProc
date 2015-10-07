@@ -81,7 +81,7 @@ Continued work on big projects<br>
 TOMMY CHEN<br>
 SCALE INVARIANT FEATURE TRANSFORM (SIFT)<br>
 SINGULAR VALUE DECOMPOSITION<br>
-RANDOM SAMPLE CONCENSUS (RANSAC)<br>
+RANDOM SAMPLE CONSENSUS (RANSAC)<br>
 https://www.youtube.com/watch?v=ATxU93BYWnA<br><br>
 
 <b>FRI 7/25/14</b><br>
